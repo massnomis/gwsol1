@@ -1,5 +1,17 @@
 # gwsol1
 
+This repo has a smart contract that makes company finaces easier and on the blockcahin. It does this by automating profit splitting between employees. It is for distributing shares to employees on deffered equity plans, deployed with remix on kovan
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/23089346/134698206-fed526b3-c092-4551-b408-1662f41a6af1.png)
+![image](https://user-images.githubusercontent.com/23089346/134698225-bb5fb015-13ae-46c9-9d07-8b8b3e7faa71.png)
+
 
 deployment
 https://kovan.etherscan.io/tx/0xfca2ee11ae91c3575932a710438ad6aae4a4ba299d6037c5c27722c9ea4fcdb2
